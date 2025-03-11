@@ -1,0 +1,6 @@
+text
+pandas
+PyPDF2
+python-docx
+google-generativeai
+python-dotenv
